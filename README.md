@@ -1,20 +1,14 @@
-# LIENJUNG Chang
+# Lian-Rong Zhang
 
 ## Contact
 - **LinkedIn:** [Profile](www.linkedin.com/in/lienjung-chang-a80901293)
-
-## Top Skills
-
-- HTML
-- JavaScript
-- Machine Learning
 
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
-- Google Analytics (分析) 個人認證
-- Google Ads 搜尋廣告認證
+- Google Analytics
+- Google Ads
 
 ## Summary
 
