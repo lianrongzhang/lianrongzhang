@@ -1,9 +1,6 @@
 # LIENJUNG Chang
 
 ## Contact
-
-- **Mobile:** 0903335087
-- **Email:** zlianrong1224@gmail.com
 - **LinkedIn:** [lienjungchang-a80901293](https://www.linkedin.com/in/lienjungchang-a80901293)
 
 ## Top Skills
