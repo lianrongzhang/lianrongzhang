@@ -1,7 +1,7 @@
 # LIENJUNG Chang
 
 ## Contact
-- **LinkedIn:** [lienjungchang-a80901293](https://www.linkedin.com/in/lienjungchang-a80901293)
+- **LinkedIn:** [](www.linkedin.com/in/lienjung-chang-a80901293)
 
 ## Top Skills
 
