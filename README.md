@@ -1,7 +1,8 @@
 # Lian-Rong Zhang
 
-## Contact
-- **LinkedIn:** [Profile](www.linkedin.com/in/lienjung-chang-a80901293)
+## Summary
+
+I am currently an intern at JTX Corporation in Taipei. I have a background in research, having worked as a research personnel at Tunghai University and as a research assistant at the Interstitial Lung Disease Integration Center of Taichung Veterans General Hospital.
 
 ## Certifications
 
@@ -10,9 +11,7 @@
 - Google Analytics
 - Google Ads
 
-## Summary
 
-I am currently an intern at JTX Corporation in Taipei. I have a background in research, having worked as a research personnel at Tunghai University and as a research assistant at the Interstitial Lung Disease Integration Center of Taichung Veterans General Hospital.
 
 ## Experience
 
@@ -36,3 +35,6 @@ Taichung City, Taiwan
 **Tunghai University**  
 Bachelor of Engineering (BE), Computer Science  
 September 2020 - June 2024
+
+
+- **LinkedIn:** [Profile](www.linkedin.com/in/lienjung-chang-a80901293)
