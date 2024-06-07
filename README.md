@@ -35,4 +35,4 @@ I am currently an intern at JTX Corporation in Taipei. I have a background in re
 - Google Analytics
 - Google Ads
 
-**LinkedIn:** [Profile](www.linkedin.com/in/lienjung-chang-a80901293)
+**LinkedIn:** [Profile](https://www.linkedin.com/in/lienjung-chang)
