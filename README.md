@@ -2,7 +2,7 @@
 
 ## Summary
 
-I am currently an intern at JTX Corporation in Taipei. I have a background in research, having worked as a research personnel at Tunghai University and as a research assistant at the Interstitial Lung Disease Integration Center of Taichung Veterans General Hospital.
+Formerly employed as a research personnel at Tunghai University and served as a research assistant at the Interstitial Lung Disease Integration Center of Taichung Veterans General Hospital. Previously interned at JTX Corporation and currently pursuing a master's degree at Tunghai University.
 
 ## 🎓 Education
 
